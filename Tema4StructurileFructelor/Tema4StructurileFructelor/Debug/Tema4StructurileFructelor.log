@@ -1,0 +1,4 @@
+﻿  Tema4StructurileFructelor.cpp
+C:\Users\adrag\source\repos\Tema4StructurileFructelor\Tema4StructurileFructelor\Tema4StructurileFructelor.cpp(46,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\adrag\source\repos\Tema4StructurileFructelor\Tema4StructurileFructelor\Tema4StructurileFructelor.cpp(43,6): warning C4101: 'stoc': unreferenced local variable
+  Tema4StructurileFructelor.vcxproj -> C:\Users\adrag\source\repos\Tema4StructurileFructelor\Debug\Tema4StructurileFructelor.exe
